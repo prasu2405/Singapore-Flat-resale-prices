@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+joblib
+numpy
+streamlit
+streamlit_option_menu
+folium
+streamlit_folium
